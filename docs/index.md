@@ -8,7 +8,7 @@ A software engineer focused on embedded systems.
 <div id="email">
 <a href="famousodin12345@gmail.com">famousodin12345@gmail.com</a>
 | <a href="https://www.linkedin.com/in/sam-running-3b5982262/">LinkedIn</a>
-| <a href="https://byuids-resumes.github.io/mdresume/">GitHub</a>
+| <a href="https://github.com/Orionthewriter">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
